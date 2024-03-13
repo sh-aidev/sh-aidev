@@ -16,11 +16,12 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 </p> -->
 
 ## 📚 My Skills:
-- **AI/ML**:Generative AI, LLM's, Stable Diffusion, Computer Vision, Deep Learning, Machine Learning, Natural Language Processing, Reinforcement Learning etc.
-- **Languages**: Python, C++, Go, JavaScript, Shell Scripting
-- **Frameworks**: TensorFlow, Keras, OpenCV, PyTorch, FastAPI, gRPC, Docker, Kubernetes etc.
-- **Tools**: Git, Docker, Kubernetes etc.
-- **Others**: Linux, Shell Scripting, CI/CD, Agile etc.
+
+- 🤖 **AI/ML**:Generative AI, LLM's, Stable Diffusion, Computer Vision, Deep Learning, Machine Learning, Natural Language Processing, Reinforcement Learning etc.
+- 🗨️ **Languages**: Python, C++, Go, JavaScript, Shell Scripting
+- 💻 **Frameworks**: TensorFlow, Keras, OpenCV, PyTorch, FastAPI, gRPC, Docker, Kubernetes etc.
+- 🛠 **Tools**: Git, Docker, Kubernetes etc.
+- 📌 **Others**: Linux, Shell Scripting, CI/CD, Agile etc.
 
 ## 🚀 How to reach me:
 📫 **Email**: ec.santuh@gmail.com
