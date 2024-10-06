@@ -26,9 +26,9 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 ## 🚀 How to reach me:
 📫 **Email**: ec.santuh@gmail.com
 
-🔗 **LinkedIn**: <a href="https://linkedin.com/in/santuh" target="_blank" rel="noopener">santuh</a>
+🔗 **LinkedIn**: <a href="https://linkedin.com/in/santuh" target="_blank" rel="noopener noreferrer">santuh</a>
 
-🌐 **Website**: <a href="https://santuh.in" target="_blank" rel="noopener">santuh.in</a>
+🌐 **Website**: <a href="https://santuh.in" target="_blank" rel="noopener noreferrer">santuh.in</a>
 
 <div align="center">
 <h4> Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about all things tech! Let's build amazing things together! 🚀🌟</h4>
