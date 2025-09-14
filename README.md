@@ -5,15 +5,15 @@
 
 I can work really well when it comes to Computer Vision, Python projects, and anything with C++/C and Linux, from creating custom DNNs and creating a deployment pipeline to creating a high performance gRPC server/client. I'm dedicated to pushing the boundaries of innovation and creating impactful solutions.
 
-<!-- ## 📈 My GitHub Stats:
+## 📈 My GitHub Stats:
 
 <p align="center">
 
-<!-- ![Santu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-aidev&show_icons=true&theme=radical) -->
+![Santu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-aidev&show_icons=true&theme=radical)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
+<img src="https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
 
-</p> -->
+</p>
 
 ## 📚 My Skills:
 
