@@ -3,7 +3,7 @@
 <h3> Welcome to my GitHub profile! 🦮</h3>
 </div>
 
-I can work really well when it comes to Computer Vision, Python projects, and anything with C++/C and Linux, from creating custom DNNs and creating a deployment pipeline to creating a high performance gRPC server/client. I'm dedicated to pushing the boundaries of innovation and creating impactful solutions.
+I can work really well when it comes to Generative AI, Agentic AI, RAG, multi-agent systems, and enterprise AI solutions, from building LLM-powered agents and semantic search systems to designing scalable AI architectures on AWS. With 11+ years of experience, I'm dedicated to pushing the boundaries of innovation and creating impactful, production-grade solutions.
 
 ## 📈 My GitHub Stats:
 
@@ -15,11 +15,12 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ## 📚 My Skills:
 
-- 🤖 **AI/ML**:Generative AI, LLM's, Stable Diffusion, Computer Vision, Deep Learning, Machine Learning, Natural Language Processing, Reinforcement Learning etc.
-- 🗨️ **Languages**: Python, C++, Go, JavaScript, Shell Scripting
-- 💻 **Frameworks**: TensorFlow, Keras, OpenCV, PyTorch, FastAPI, gRPC, Docker, Kubernetes etc.
-- 🛠 **Tools**: Git, Docker, Kubernetes etc.
-- 📌 **Others**: Linux, Shell Scripting, CI/CD, Agile etc.
+- 🤖 **Generative & Agentic AI**: LLMs, RAG, LangGraph, MCP, Multi-Agent Systems, Agent Orchestration, A2A, AGUI, Graph RAG, NL-to-SQL, Semantic & Vector Search etc.
+- 🧠 **AI/Deep Learning**: PyTorch, CNNs, Vision Models, GANs, CLIP, Stable Diffusion, Reinforcement Learning, STT, TTS, YOLO, SAM, Multimodal Models etc.
+- 🗨️ **Languages**: Python, C/C++, Golang, R, SQL, JavaScript
+- 🔎 **Data & Search**: OpenSearch, Milvus, FAISS, Neo4j, Redis etc.
+- 💻 **Frameworks**: FastAPI, GStreamer, gRPC, ONNX etc.
+- 🛠 **MLOps & Cloud**: Docker, AWS, ECS, CI/CD, Git etc.
 
 ## 🚀 How to reach me:
 📫 **Email**: ec.santuh@gmail.com
